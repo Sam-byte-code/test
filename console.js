@@ -1,3 +1,3 @@
-console.log("Hello");
-console.log("Hello");
-console.log("Hello");
+let x;
+x = 6;
+document.getElementById("demo").innerHTML = x;
